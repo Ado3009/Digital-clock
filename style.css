@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.display {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #17d4fe;
+  font-size: 60px;
+  font-family: 'Press Start 2P';
+  letter-spacing: 7px;
+}
+
+footer a {
+  font-size: 40px;
+  color: #17d4fe;
+  text-decoration: none;
+}
+.footerClass {
+  margin-top: 40%;
+}
